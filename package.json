@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "express-rate-limit": "^7.3.1",
+    "graphology": "^0.25.4",
+    "helmet": "^7.1.0",
+    "multer": "^1.4.5-lts.1",
+    "sigma": "^3.0.0-beta.38",
+    "tree-sitter": "^0.21.1",
+    "tree-sitter-java": "^0.21.0",
+    "tree-sitter-javascript": "^0.21.3",
+    "tree-sitter-typescript": "^0.21.1",
+    "unzipper": "^0.12.3"
+  }
+}
